@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ajchii
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning everything
-- 📫 Reach me on Discord (Aja#5267)
+# Hi, I'm Aja! 👩‍💻
+
+- 2<sup>nd</sup> year CS student at FERI :slovenia:
+- interested in Web Dev (frontend + backend) 📱
+- familiar with: C++, Python, Bash, HTML, CSS, JavaScript, php... 💻
+- casual gamer 🎮
