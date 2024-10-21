@@ -1,6 +1,7 @@
 # Hi, I'm Aja! 👩‍💻
 
-- 3<sup>rd</sup> year CS student at FERI 🏫
-- interested in Android app Dev 📱
+- bachelors in CS 🧑‍🎓
+- 2<sup>nd</sup> year Masters Media Communications student at FERI 🏫
+- interested in frontend MERN Stack Dev Android app Dev 📱
 - familiar with: C++, Kotlin, Java, Python, Bash, HTML, CSS, JavaScript, php... 💻
 - casual gamer 🎮
